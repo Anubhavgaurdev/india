@@ -1,0 +1,44 @@
+<a 
+target="_blank"
+
+
+code for video
+<video controls> or <video autoplay>
+<source src="any vido name" type="video/mp4 or any">
+</video>
+
+
+vieo mp4
+https://en.savefrom.net/1-youtube-video-downloader-123/
+
+mp3/mp4
+https://getx.topsandtees.space/ApXoWvfEYVU/4El9kDZOOoFr92Omd4nYI96Ak70o8du5okDl5JLYiAO/mp3
+
+
+download stuff
+<a href="anyfile" download> </a>
+<a href="logo.png" download="My Logo"><img src = "logo.png" alt="thumbnail" width="120"/></a>	
+
+<script src="https://cdn.tailwindcss.com"></script>
+
+space
+<p>
+&nbsp;Name
+</p>
+
+<section class="sec">
+
+    <dev class="paras">
+    <p class="sectionTag text-big">
+        India
+        What    
+    </p>
+    <p class="sectionSubTag text-small">
+      
+         </p>
+</dev> 
+<div class="thumbnail">
+    <img src="https://source.unsplash.com/400x400/?What is the full form is India" alt="india">
+</div>
+
+</section>
